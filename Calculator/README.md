@@ -1,4 +1,4 @@
-# Calculator
+﻿# Calculator
 
 A simple calculator application built with C# and .NET.
 
@@ -29,6 +29,6 @@ A simple calculator application built with C# and .NET.
 Enter first number: 10
 Enter second number: 5
 Enter operation (+, -, *, /): +
-Result: 15 
+Result: 15
 
-
+![Calculator](Screenshots/Calculator.png)
